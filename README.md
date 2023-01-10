@@ -19,12 +19,11 @@
   
   [![My Skills](https://skillicons.dev/icons?i=linux&theme=dark)](https://skillicons.dev)
   
-  </div
+  </div>
   
   
   ##
   
   
-  
-    #### ./No system is secure
-    #### ./Learning every day
+  #### ./ "No System is secure"
+  #### ./ "Learning every day"
