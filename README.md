@@ -13,6 +13,24 @@
   
   ### Languages
   
+  [![My Skills](https://skillicons.dev/icons?i=js,nodejs,python,ruby,php,perl,bash,lua,java,rust,cs,c,cpp,mysql,postgres&theme=dark)](https://skillicons.dev)
+  
+  ### Operacional System
+  
+  [![My Skills](https://skillicons.dev/icons?i=linux&theme=dark)](https://skillicons.dev)
+  
+  
+  ##
+  
+  <div>
+  
+    #### ./ "No system is secure"
+    #### ./ "Learning every day"
+  
+  </div>
+  
+  
+  
   
 
 </div>
