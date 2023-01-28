@@ -4,8 +4,8 @@
 
 - 🍀 Favorites languages: **Python | Javascript | C/C++**
 - 🌿 Studying programming and hacking since 2017
-- 🎯 I like CTF**
-- 📚 learning AI
+- 🎯 I like **CTF**
+- 📚 learning **AI**
 
 
 
